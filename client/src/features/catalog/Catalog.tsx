@@ -1,4 +1,4 @@
-import { error } from "console";
+
 import agent from "../../app/api/agent";
 import LoadingComponent from "../../app/layout/LoadingComponent";
 import { Product } from "../../app/models/product";
